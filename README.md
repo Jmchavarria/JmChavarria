@@ -1,4 +1,4 @@
-# Hola, soy Jhon 👋
+# Hi, I'm Jhon Chavarria 👋
 
 ### Web Developer | React | Node.js | Tailwind
 
