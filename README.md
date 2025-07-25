@@ -4,14 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tuusuario&label=Visitas&color=blue)
 
----
-
-## 📊 Mis Estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=tuusuario&theme=tokyonight)
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jmchavarria&theme=java-dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🛠️ Tecnologías
 <p>
