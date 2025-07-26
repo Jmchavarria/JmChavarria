@@ -2,7 +2,7 @@
 
 ### Web Developer | React | Node.js | Tailwind
 
-![Profile Views](https://komarev.com/ghpvc/?username=JmChavarria&label=Visitas&color=blue)
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JmChavarria&theme=java-dark&hide_border=true)](https://git.io/streak-stats)
 
