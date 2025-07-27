@@ -25,8 +25,7 @@ Committed to continuous learning and passionate about tackling new technological
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40"/>
-  
-            <i class="devicon-github-original" width="40"></i>
+  <i class="devicon-github-original" width="40"></i>
           
           
           
