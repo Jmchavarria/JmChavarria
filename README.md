@@ -6,6 +6,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JmChavarria&theme=java-dark&hide_border=true)](https://git.io/streak-stats)
 
+![Haany's github stats](https://github-readme-stats.vercel.app/api?username=jmchavarria&show_icons=true&hide=[%22issues%22])
+
 ---
 
 ## 👨‍💻 About Me
