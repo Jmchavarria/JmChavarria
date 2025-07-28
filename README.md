@@ -27,6 +27,7 @@ Committed to continuous learning and passionate about tackling new technological
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
