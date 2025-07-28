@@ -43,10 +43,12 @@ Committed to continuous learning and passionate about tackling new technological
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jmchavarria)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://mi-portfolio-962.pages.dev/#projects)
 
-##📫 Contact
+## 📫 Contact
+
 <p>
   <a href="mailto:marlon05chavarria@gmail.com">
     <img src="https://img.shields.io/badge/Email-marlon05chavarria@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
