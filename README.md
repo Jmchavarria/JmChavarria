@@ -47,7 +47,7 @@ Committed to continuous learning and passionate about tackling new technological
 
 <p>
   <a href="mailto:marlon05chavarria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marlon05chavarria@gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-marlon05chavarria@gmail.com-blue?style=flat&logo=gmail&logoColor=white" height="50"/>
   </a>
 </p>
 
