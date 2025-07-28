@@ -19,7 +19,7 @@ Committed to continuous learning and passionate about tackling new technological
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,prisma,mongodb,postgresql,git,github,vscode,cloudflare" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind,nodejs,prisma,mongodb,postgresql,git,github,vscode,cloudflare" height="40" />
 </p>
 
 
