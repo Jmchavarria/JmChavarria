@@ -29,6 +29,7 @@ Committed to continuous learning and passionate about tackling new technological
   <img src="https://skillicons.dev/icons?i=prisma" height="50" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="50" />
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img src="https://skillicons.dev/icons?i=github" height="50" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
