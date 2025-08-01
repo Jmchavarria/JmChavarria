@@ -4,7 +4,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JmChavarria&theme=java-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jmchavarria)](https://git.io/streak-stats)
 
 
 ---
