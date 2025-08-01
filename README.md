@@ -1,6 +1,6 @@
 # Hi, I'm Jhon Chavarria 👋
 
-### Web Developer | React | Node.js | Tailwind
+### Web Developer | React | NextJs | Node.js | Tailwind CSS 
 
 
 
