@@ -2,10 +2,8 @@
 
 ### Web Developer | React | Next.js | Node.js | Tailwind CSS 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jmchavarria)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jmchavarria)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jmchavarria&theme=dark)](https://git.io/streak-stats)
+
 
 
 ---
