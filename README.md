@@ -32,7 +32,6 @@ Full Stack Developer with 11 months of experience building scalable, secure, and
   <img src="https://skillicons.dev/icons?i=supabase" height="50" />
   <img src="https://skillicons.dev/icons?i=git" height="50" />
   <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="50" />
 </div>
 
