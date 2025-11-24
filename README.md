@@ -38,8 +38,10 @@ Full Stack Developer with 11 months of experience building scalable, secure, and
 
 ## 🔗 Links
 
+## 🔗 Links
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonmarlonchavarria)
-[![Portafolio](https://portfolio-7qp.pages.dev/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-7qp.pages.dev/)
 
 
 ## 📫 Contact
