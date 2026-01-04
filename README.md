@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-Full Stack Developer with 11 months of experience building scalable, secure, and user-focused web applications. Proficient in frontend technologies such as React.js, Next.js, and Tailwind CSS, as well as backend tools like Node.js, Express.js, and Supabase. Recognized for strong teamwork, continuous learning, and a focus on code quality. Passionate about solving technical challenges and developing efficient, reliable solutions.
+Full Stack Developer with over a year of experience building scalable, secure, and user-focused web applications. Proficient in frontend technologies such as React.js, Next.js, and Tailwind CSS, as well as backend tools like Node.js, Express.js, and Supabase. Recognized for strong teamwork, continuous learning, and a focus on code quality. Passionate about solving technical challenges and developing efficient, reliable solutions.
 
 
 ---
