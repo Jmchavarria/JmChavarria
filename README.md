@@ -20,6 +20,7 @@ Full Stack Developer with over a year of experience building scalable, secure, a
   <img src="https://skillicons.dev/icons?i=css" height="50" />
   <img src="https://skillicons.dev/icons?i=javascript" height="50" />
   <img src="https://skillicons.dev/icons?i=typescript" height="50" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="50" />
   <img src="https://skillicons.dev/icons?i=react" height="50" />
   <img src="https://skillicons.dev/icons?i=redux" height="50" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
