@@ -9,7 +9,12 @@
 ---
 
 ## 👨‍💻 About Me
-Full Stack Developer with over a year of experience building scalable, secure, and user-focused web applications. Proficient in frontend technologies such as React.js, Next.js, and Tailwind CSS, as well as backend tools like Node.js, Express.js, and Supabase. Recognized for strong teamwork, continuous learning, and a focus on code quality. Passionate about solving technical challenges and developing efficient, reliable solutions.
+I am a Full-Stack Developer (TypeScript, Node.js, React) with 2 years of experience designing REST APIs and
+backend architectures using Clean Architecture. I have automated deployments with CI/CD, reducing
+delivery times by more than 80%, and I have built interactive dashboards that accelerated business
+decision-making by 30%. I have a solid foundation in SQL (PostgreSQL, MySQL), JWT authentication, and API integration. I have
+experience using AI-powered code assistants (Claude, Codex) regularly in my workflow, with a genuine
+interest in building agents and automations to improve development processes.
 
 
 ---
