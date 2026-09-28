@@ -1,4 +1,4 @@
-# Hi, I'm Jhon Chavarria 👋
+Jhon Chavarria 
 
 ### Web Developer | React | Next.js | Node.js | Tailwind CSS 
 
