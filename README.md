@@ -3,13 +3,7 @@
 ### Web Developer | React | NextJs | NodeJs | NestJs | Tailwind CSS 
 
 
-I am a Full-Stack Developer (TypeScript, Node.js, React) with 2 years of experience designing REST APIs and
-backend architectures using Clean Architecture. I have automated deployments with CI/CD, reducing
-delivery times by more than 80%, and I have built interactive dashboards that accelerated business
-decision-making by 30%. I have a solid foundation in SQL (PostgreSQL, MySQL), JWT authentication, and API integration. I have
-experience using AI-powered code assistants (Claude, Codex) regularly in my workflow, with a genuine
-interest in building agents and automations to improve development processes.
-
+Soy desarrollador full-stack (TypeScript, Node.js, React) con dos años de experiencia en el diseño de API REST y arquitecturas de backend utilizando Clean Architecture. He automatizado las implementaciones mediante CI/CD, reduciendo los plazos de entrega en más de un 80 %, y he creado paneles interactivos que han acelerado la toma de decisiones empresariales en un 30 %. Cuento con una base sólida en SQL (PostgreSQL, MySQL), autenticación JWT e integración de API. Tengo experiencia en el uso habitual de asistentes de código basados en IA (Claude, Codex) en mi flujo de trabajo, y siento un interés genuino por crear agentes y automatizaciones para mejorar los procesos de desarrollo.
 
 ---
 
