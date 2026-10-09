@@ -2,9 +2,7 @@
 
 ### Web Developer | React | NextJs | NodeJs | NestJs | Tailwind CSS 
 
----
 
-## 👨‍💻 About Me
 I am a Full-Stack Developer (TypeScript, Node.js, React) with 2 years of experience designing REST APIs and
 backend architectures using Clean Architecture. I have automated deployments with CI/CD, reducing
 delivery times by more than 80%, and I have built interactive dashboards that accelerated business
