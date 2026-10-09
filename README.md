@@ -1,6 +1,6 @@
 # Jhon Chavarria 
 
-### Web Developer | React | NextJs | NodeJS |NestJs Tailwind CSS 
+### Web Developer | React | NextJs | NodeJs |NestJs Tailwind CSS 
 
 ---
 
