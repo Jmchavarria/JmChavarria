@@ -7,7 +7,6 @@ Soy desarrollador full-stack (TypeScript, Node.js, React) con dos años de exper
 
 ---
 
-## 🛠️ Technologies
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="https://skillicons.dev/icons?i=html" height="50" />
   <img src="https://skillicons.dev/icons?i=css" height="50" />
