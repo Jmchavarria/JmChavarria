@@ -30,7 +30,7 @@ Soy desarrollador full-stack (TypeScript, Node.js, React) con dos años de exper
 
 
 
-## 📫 Contact
+## Contact
 
 <p>
   <a href="mailto:marlon05chavarria@gmail.com">
