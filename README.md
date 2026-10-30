@@ -7,26 +7,7 @@ Soy desarrollador (TypeScript, Node.js, React) con dos años de experiencia en e
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="https://skillicons.dev/icons?i=html" height="50" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgresql" height="50" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="50" />
-</div>
+
 
 
 
